@@ -10,9 +10,9 @@ This project combines functions, modules, lists, dictionaries, and file handling
 
 ### Main Menu (Terminal)
 
-* [ ] The program displays the terminal menu as its first user interaction, before opening a Pygame simulation window.
-* [ ] The terminal menu includes an option to run a new simulation.
-* [ ] The terminal menu includes an option to view previous simulation data.
+* [x] The program displays the terminal menu as its first user interaction, before opening a Pygame simulation window.
+* [x] The terminal menu includes an option to run a new simulation.
+* [x] The terminal menu includes an option to view previous simulation data.
 * [ ] Selecting previous simulation data displays an indexed list of saved trials.
 * [ ] The user can select a trial from that list to view its data on a graph.
 * [ ] The terminal menu includes an option to select a saved simulation and resume it from its JSON save.
@@ -21,9 +21,9 @@ This project combines functions, modules, lists, dictionaries, and file handling
 
 ### Pre-Simulation User Inputs
 
-* [ ] The user can enter a population count as an integer.
-* [ ] The user can enter infectiousness as a percentage chance of infection.
-* [ ] The user can enter transmissibility as the distance infection can travel in pixels.
+* [x] The user can enter a population count as an integer.
+* [x] The user can enter infectiousness as a percentage chance of infection.
+* [x] The user can enter transmissibility as the distance infection can travel in pixels.
 * [ ] The user can enter lethality as the percentage chance that an infected person dies on a given day.
 * [ ] The user can enter recoverability as the percentage chance that an infected person recovers on a given day.
 * [ ] The user can enter immunity as the percentage of the population that is immune.

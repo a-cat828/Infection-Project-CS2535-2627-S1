@@ -1,4 +1,2 @@
-import intups
-
-
-
+import intups as I
+I.inputs()

@@ -24,20 +24,20 @@ This project combines functions, modules, lists, dictionaries, and file handling
 * [x] The user can enter a population count as an integer.
 * [x] The user can enter infectiousness as a percentage chance of infection.
 * [x] The user can enter transmissibility as the distance infection can travel in pixels.
-* [ ] The user can enter lethality as the percentage chance that an infected person dies on a given day.
-* [ ] The user can enter recoverability as the percentage chance that an infected person recovers on a given day.
-* [ ] The user can enter immunity as the percentage of the population that is immune.
-* [ ] The user can enter immunity efficacy as the percentage chance that immunity prevents infection.
-* [ ] The user can enter a disease name as a string that uniquely identifies the trial.
+* [x] The user can enter lethality as the percentage chance that an infected person dies on a given day.
+* [x] The user can enter recoverability as the percentage chance that an infected person recovers on a given day.
+* [x] The user can enter immunity as the percentage of the population that is immune.
+* [x] The user can enter immunity efficacy as the percentage chance that immunity prevents infection.
+* [x] The user can enter a disease name as a string that uniquely identifies the trial.
 
 ### Population and Disease Behaviour
 
-* [ ] The population is stored as a list of dictionaries.
-* [ ] Each person's dictionary stores an x position, y position, x speed, and y speed.
-* [ ] Each person's dictionary stores a status: infected, recovered, susceptible, or dead.
-* [ ] Each person's dictionary stores an immune value as `True` or `False`.
-* [ ] The population size matches the user's population count.
-* [ ] The starting immune population is determined by the user's immunity percentage.
+* [x] The population is stored as a list of dictionaries.
+* [x] Each person's dictionary stores an x position, y position, x speed, and y speed.
+* [x] Each person's dictionary stores a status: infected, recovered, susceptible, or dead.
+* [x] Each person's dictionary stores an immune value as `True` or `False`.
+* [x] The population size matches the user's population count.
+* [x] The starting immune population is determined by the user's immunity percentage.
 * [ ] Infection checks use the user's transmissibility distance and infectiousness percentage.
 * [ ] After an immune person is successfully infected from a regular infection check, check to see if their immunity protects them using the immunity efficacy percentage.
 * [ ] Daily death checks for infected people use the user's lethality percentage.

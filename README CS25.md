@@ -38,7 +38,7 @@ This project combines functions, modules, lists, dictionaries, and file handling
 * [x] Each person's dictionary stores an immune value as `True` or `False`.
 * [x] The population size matches the user's population count.
 * [x] The starting immune population is determined by the user's immunity percentage.
-* [ ] Infection checks use the user's transmissibility distance and infectiousness percentage.
+* [x] Infection checks use the user's transmissibility distance and infectiousness percentage.
 * [ ] After an immune person is successfully infected from a regular infection check, check to see if their immunity protects them using the immunity efficacy percentage.
 * [ ] Daily death checks for infected people use the user's lethality percentage.
 * [ ] Daily recovery checks for infected people use the user's recoverability percentage.

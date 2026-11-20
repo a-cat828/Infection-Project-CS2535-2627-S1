@@ -39,9 +39,9 @@ This project combines functions, modules, lists, dictionaries, and file handling
 * [x] The population size matches the user's population count.
 * [x] The starting immune population is determined by the user's immunity percentage.
 * [x] Infection checks use the user's transmissibility distance and infectiousness percentage.
-* [ ] After an immune person is successfully infected from a regular infection check, check to see if their immunity protects them using the immunity efficacy percentage.
-* [ ] Daily death checks for infected people use the user's lethality percentage.
-* [ ] Daily recovery checks for infected people use the user's recoverability percentage.
+* [x] After an immune person is successfully infected from a regular infection check, check to see if their immunity protects them using the immunity efficacy percentage.
+* [x] Daily death checks for infected people use the user's lethality percentage.
+* [x] Daily recovery checks for infected people use the user's recoverability percentage.
 * [ ] A timer is used to simulate days where each day represents 5 seconds of normal time.
 
 ### Simulation Visualization and Controls
